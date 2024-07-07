@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r1chero&label=Profile%20views&color=0e75b6&style=flat" alt="r1chero" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r1chero" alt="r1chero" /></a> </p>
-
 - 🌱 I’m currently learning **Godot and Unity Engine**
 
 - 📫 How to reach me **emrekadirkaragoz@gmail.com**
