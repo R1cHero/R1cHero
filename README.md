@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emre Kadir Karagöz</h1>
 <h2 align="center">A game developer from Türkiye</h2>
-<h3>Dare mighty things</h3>
+<h3 align="center">Dare mighty things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r1chero&label=Profile%20views&color=0e75b6&style=flat" alt="r1chero" /> </p>
 
