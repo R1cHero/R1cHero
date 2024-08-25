@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/emrekadirkaragoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrekadirkaragoz" height="30" width="40" /></a>
 <a href="https://instagram.com/emrek.karagoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emrek.karagoz" height="30" width="40" /></a>
-<a href="https://r1chero.itch.io" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/itchio/images/fbcbbb7a-e2ed-48f9-af0d-0e44ec2d133f.html" height="30" width="40" /></a>
+<a href="https://r1chero.itch.io" target="blank"><img align="center" src="https://static.itch.io/images/logo-white-new.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
