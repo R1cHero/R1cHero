@@ -18,7 +18,7 @@
 - **Email**: [emrekadirkaragoz@gmail.com](mailto:emrekadirkaragoz@gmail.com)
 - **LinkedIn**: [emrekadirkaragoz](https://linkedin.com/in/emrekadirkaragoz)
 - **Instagram**: [emrek.karagoz](https://instagram.com/emrek.karagoz)
-- **Itch.io**: [R1chero Games](https://r1chero.itch.io)
+- **Itch.io**: [R1cHero Games](https://r1chero.itch.io)
 
 ---
 
