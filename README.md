@@ -49,7 +49,6 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=r1chero&show_icons=true&locale=en" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r1chero&" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
