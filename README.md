@@ -48,7 +48,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r1chero&show_icons=true&locale=en" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=r1chero&show_icons=true&theme=dark#gh-dark-mode-only" alt="GitHub Stats" width="48%" />
 </p>
 
 <p align="center">
