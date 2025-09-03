@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Emre Kadir Karagöz</h1>
-<h2 align="center">🎮 Game Developer | Türkiye</h2>
-<h3 align="center">"Dare mighty things"</h3>
+<div align="center">
+<h1>Hi 👋, I'm Emre Kadir Karagöz</h1>
+<h2>🎮 Game Developer | Türkiye</h2>
+<h3>"Dare mighty things"</h3>
 
-<p align="center"> 
+<p> 
   <img src="https://komarev.com/ghpvc/?username=r1chero&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
@@ -23,7 +24,7 @@
 ---
 
 ### 🛠️ Languages & Tools:
-<p align="left">
+<p>
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
@@ -56,3 +57,4 @@
 </p>
 
 ---
+</div>
