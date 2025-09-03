@@ -11,14 +11,18 @@
 
 ### 🌱 Currently Exploring:
 **Game Engines**: Godot & Unity
+</br>
 **Programming**: Enhancing my skills in C, C#, and game development
 
 ---
 
 ### 📬 Reach Me:
 **Email**: [emrekadirkaragoz@gmail.com](mailto:emrekadirkaragoz@gmail.com)
+</br>
 **LinkedIn**: [emrekadirkaragoz](https://linkedin.com/in/emrekadirkaragoz)
+</br>
 **Instagram**: [emrek.karagoz](https://instagram.com/emrek.karagoz)
+</br>
 **Itch.io**: [R1cHero Games](https://r1chero.itch.io)
 
 ---
