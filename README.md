@@ -10,7 +10,7 @@
 
 ### 🌱 Currently Exploring:
 - **Game Engines**: Godot & Unity
-- **Programming**: Enhancing my skills in C, Java, and scripting tools for game development
+- **Programming**: Enhancing my skills in C, C#, and game development
 
 ---
 
