@@ -10,16 +10,16 @@
 ---
 
 ### 🌱 Currently Exploring:
-- **Game Engines**: Godot & Unity
-- **Programming**: Enhancing my skills in C, C#, and game development
+**Game Engines**: Godot & Unity
+**Programming**: Enhancing my skills in C, C#, and game development
 
 ---
 
 ### 📬 Reach Me:
-- **Email**: [emrekadirkaragoz@gmail.com](mailto:emrekadirkaragoz@gmail.com)
-- **LinkedIn**: [emrekadirkaragoz](https://linkedin.com/in/emrekadirkaragoz)
-- **Instagram**: [emrek.karagoz](https://instagram.com/emrek.karagoz)
-- **Itch.io**: [R1cHero Games](https://r1chero.itch.io)
+**Email**: [emrekadirkaragoz@gmail.com](mailto:emrekadirkaragoz@gmail.com)
+**LinkedIn**: [emrekadirkaragoz](https://linkedin.com/in/emrekadirkaragoz)
+**Instagram**: [emrek.karagoz](https://instagram.com/emrek.karagoz)
+**Itch.io**: [R1cHero Games](https://r1chero.itch.io)
 
 ---
 
